@@ -1,7 +1,7 @@
 var content=document.getElementById("content");
 content.onclick=function(){
   alert("its active now")
-  document.getElementById("content").innerHTML='<img src=off.jpg alt="Image" class="responsive-img">ON'
+  document.getElementById("content").innerHTML='<img src= off.jpg alt="Image" class="responsive-img">ON'
 }
 
 let a=false;
